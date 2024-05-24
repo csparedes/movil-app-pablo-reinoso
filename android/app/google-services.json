@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052986229533",
+    "project_id": "tesis-parm",
+    "storage_bucket": "tesis-parm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052986229533:android:55326a6ed5d4dc8755d7f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052986229533-8ml973npc5ipkcu3r75r8kilconatobn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iSXtGh1e_EKNVojY3J4c2CJZzib-R1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052986229533-8ml973npc5ipkcu3r75r8kilconatobn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
